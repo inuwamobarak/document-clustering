@@ -36,6 +36,7 @@ The dataset contains 14 articles including topics which are:
 All the articles are imported and first converted into vectors for suitability.
 
 
+![]()
 
 
 
@@ -54,8 +55,6 @@ https://mobarak.mystrikingly.com/
 *References/Links:*
 
 Image Source: By Wikimedia Foundation — Wikimedia Foundation, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12611181
-
-https://www.freepnglogos.com/pics/hd-wikipedia-logo
 
 sklearn.cluster.KMeansK-Means clustering. Read more in the . Parameters: n_clustersint, default=8 The number of clusters to form as well as…scikit-learn.org
 
