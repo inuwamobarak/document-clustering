@@ -35,7 +35,6 @@ The dataset contains 14 articles including topics which are:
 
 All the articles are imported and first converted into vectors for suitability.
 
-
 ![]()
 
 
