@@ -43,7 +43,7 @@ All the articles are imported and first converted into vectors for suitability.
 ![]()
 
 
-
+## 
 *Feel free to follow me and ask questions:*
 
 https://twitter.com/InuwaAbraham
