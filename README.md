@@ -59,6 +59,6 @@ https://mobarak.mystrikingly.com/
 
 Image Source: By Wikimedia Foundation — Wikimedia Foundation, Public Domain, https://commons.wikimedia.org/w/index.php?curid=12611181
 
-sklearn.cluster.KMeansK-Means clustering. Read more in the . Parameters: n_clustersint, default=8 The number of clusters to form as well as…scikit-learn.org
+Sklearn K-Means Clustering: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html#
 
 Python Wikipedia Package: https://pypi.org/project/wikipedia/
