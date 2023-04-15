@@ -1,7 +1,8 @@
-# Docuument Clustering with Python Using Wikipedia articles
-Grouping articles using Clustering techniques with Python 
+# Document Clustering with Python Using Wikipedia articles
 
-Link to project article: Pending...![Wikipedia-logo-textonly](https://user-images.githubusercontent.com/65142149/232192483-fc448a5c-1d45-4c4c-a219-8e8715938aed.png)
+Link to project article: Pending...
+
+![Wikipedia-logo-textonly](https://user-images.githubusercontent.com/65142149/232192483-fc448a5c-1d45-4c4c-a219-8e8715938aed.png)
 
 
 ## Problem Statement
@@ -14,8 +15,6 @@ The idea of clustering techniques or prior experience utilizing the elbow approa
 
 ## Approach
 We will employ a Wikipedia Python library made availabe for easy access to Wikipedia pages. We deal with 14 articles using elbow method which employs heurisics and then K-Mean algorithm for clustering.
-
-![72ee2155-d442-4bbb-8175-a31bc0520474](https://user-images.githubusercontent.com/65142149/212472255-163792e2-ba22-4ec1-a8d2-29fe3b8e2bfb.jpeg)
 
 ## Dataset Description
 The dataset contains 14 articles including topics which are:
@@ -35,6 +34,12 @@ The dataset contains 14 articles including topics which are:
 * Plants
 
 All the articles are imported and first converted into vectors for suitability.
+
+
+
+
+
+
 
 *Feel free to follow me and ask questions:*
 
