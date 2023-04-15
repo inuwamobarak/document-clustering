@@ -47,9 +47,9 @@ All the articles are imported and first converted into vectors for suitability.
 
 https://twitter.com/InuwaAbraham
 
-https://www.analyticsvidhya.com/blog/author/inuwamobarak/
-
 https://www.linkedin.com/in/mobarak-inuwa/
+
+https://www.analyticsvidhya.com/blog/author/inuwamobarak/
 
 https://mobarak.mystrikingly.com/
 
